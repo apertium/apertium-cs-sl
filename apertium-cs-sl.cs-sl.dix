@@ -41,6 +41,7 @@
 
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
     <e><p><l>v<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>k<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -61,6 +62,7 @@
     <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>reaktor<s n="n"/><s n="m"/></l><r>reaktor<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>kilogram<s n="n"/><s n="m"/></l><r>kilogram<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>program<s n="n"/><s n="m"/></l><r>program<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>materiál<s n="n"/><s n="m"/></l><r>material<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>podnik<s n="n"/><s n="m"/></l><r>podjetje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>společenství<s n="n"/><s n="nt"/></l><r>skupnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
@@ -92,6 +94,9 @@
     <!-- Verbs -->
 
     <e><p><l>být<s n="vblex"/></l><r>biti<s n="vblex"/></r></p></e>
+
+    <e><p><l>podepsat<s n="vblex"/></l><r>podpisati<s n="vblex"/></r></p></e>
+    <e><p><l>připravit<s n="vblex"/></l><r>pripraviti<s n="vblex"/></r></p></e>
 
     <!-- Proper names -->
 
