@@ -69,6 +69,7 @@
     <e><p><l>území<s n="n"/><s n="nt"/></l><r>ozemlje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>okolnost<s n="n"/><s n="f"/></l><r>okoliščina<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>republika<s n="n"/><s n="f"/></l><r>republika<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>komise<s n="n"/><s n="f"/></l><r>komisija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
 
 
     <!-- Adjectives -->
@@ -83,6 +84,8 @@
     <e><p><l>jaderný<s n="adj"/></l><r>jedrski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>zapečetěný<s n="adj"/></l><r>zapečaten<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>efektivní<s n="adj"/></l><r>efektivni<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>francouzský<s n="adj"/></l><r>francoski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>italský<s n="adj"/></l><r>italijanski<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
