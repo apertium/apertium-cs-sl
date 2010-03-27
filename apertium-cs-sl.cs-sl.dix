@@ -47,6 +47,8 @@
     <e><p><l>energi<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>séri<s n="n"/><s n="f"/></l><r>serija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>podnik<s n="n"/><s n="m"/></l><r>podjetje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
+    <e><p><l>společenství<s n="n"/><s n="nt"/></l><r>skupnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
 
     <!-- Adjectives -->
 
