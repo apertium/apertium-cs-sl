@@ -39,12 +39,13 @@
     <!-- Conjunctions -->
 
     <e><p><l>i<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
-    <e><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
+    <e><p><l>a<s n="cnjcoo"/></l><r>in<s n="cnjcoo"/></r></p></e>
 
     <!-- Prepositions -->
 
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
     <e><p><l>v<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
     <e><p><l>k<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
 
@@ -63,6 +64,11 @@
 
     <!-- Nouns -->
 
+    <e><p><l>počátek<s n="n"/><s n="m"/></l><r>začetek<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>Bůh<s n="n"/><s n="m"/></l><r>Bog<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>nebe<s n="n"/><s n="nt"/></l><r>nebo<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
+    <e><p><l>země<s n="n"/><s n="f"/></l><r>zemlja<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>březen<s n="n"/><s n="m"/></l><r>marec<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>otec<s n="n"/><s n="m"/></l><r>oče<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>kniha<s n="n"/><s n="f"/></l><r>knjiga<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>dohoda<s n="n"/><s n="f"/></l><r>sporazum<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
@@ -118,6 +124,7 @@
     <e><p><l>podepsat<s n="vblex"/></l><r>podpisati<s n="vblex"/></r></p></e>
     <e><p><l>připravit<s n="vblex"/></l><r>pripraviti<s n="vblex"/></r></p></e>
     <e><p><l>rodit<s n="vblex"/></l><r>roditi<s n="vblex"/></r></p></e>
+    <e><p><l>stvořit<s n="vblex"/></l><r>ustvariti<s n="vblex"/></r></p></e>
 
     <!-- Proper names -->
 
