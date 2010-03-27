@@ -48,6 +48,7 @@
     <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
     <e><p><l>k<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
+    <e><p><l>proti<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -90,9 +91,17 @@
     <e><p><l>komise<s n="n"/><s n="f"/></l><r>komisija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>instituce<s n="n"/><s n="f"/></l><r>institucija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>koncentrace<s n="n"/><s n="f"/></l><r>koncentracija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>politika<s n="n"/><s n="f"/></l><r>politika<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>kůra<s n="n"/><s n="f"/></l><r>skorja<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>agentura<s n="n"/><s n="f"/></l><r>agencija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>období<s n="n"/><s n="nt"/></l><r>obdobje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
+    <e><p><l>město<s n="n"/><s n="nt"/></l><r>mesto<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>důstojnost<s n="n"/><s n="f"/></l><r>dostojanstvo<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>právo<s n="n"/><s n="nt"/></l><r>pravica<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>člověk<s n="n"/><s n="m"/></l><r>človek<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>jazyk<s n="n"/><s n="m"/></l><r>jezik<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>protokol<s n="n"/><s n="m"/></l><r>protokol<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>úřad<s n="n"/><s n="m"/></l><r>urad<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
 
 
     <!-- Adjectives -->
@@ -113,6 +122,10 @@
     <e><p><l>kapitálový<s n="adj"/></l><r>kapitalski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>svobodný<s n="adj"/></l><r>svoboden<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>rovný<s n="adj"/></l><r>enako<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>hospodářský<s n="adj"/></l><r>ekonomski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>celkový<s n="adj"/></l><r>celoten<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>zemský<s n="adj"/></l><r>zemeljski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>dánský<s n="adj"/></l><r>danski<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
