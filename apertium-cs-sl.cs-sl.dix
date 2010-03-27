@@ -4,12 +4,17 @@
     <s n="n"        c="Common noun"/>
     <s n="np"       c="Proper names"/>
     <s n="num"      c="Numeral"/>
+    <s n="pr"       c="Preposition"/>
     <s n="adj"      c="Adjective"/>
     <s n="vblex"    c="Verb"/>
 
     <s n="m"        c="Masculine"/>
     <s n="f"        c="Feminine"/>
     <s n="nt"       c="Neuter"/>
+
+    <s n="ord"      c="Ordinal"/>
+
+    <s n="top"      c="Toponym"/>
   </sdefs>
   <pardefs>
     <pardef n="n_n">
@@ -36,7 +41,7 @@
 
     <!-- Numerals -->
 
-    <e><p><l>en<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
+    <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
 
     <e><p><l>první<s n="num"/><s n="ord"/></l><r>prvi<s n="num"/><s n="ord"/></r></p></e>
 
@@ -44,7 +49,7 @@
 
     <e><p><l>dohoda<s n="n"/><s n="f"/></l><r>sporazum<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>vláda<s n="n"/><s n="f"/></l><r>vlada<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
-    <e><p><l>energi<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>energie<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>séri<s n="n"/><s n="f"/></l><r>serija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>podnik<s n="n"/><s n="m"/></l><r>podjetje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
