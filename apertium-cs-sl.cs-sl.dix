@@ -63,6 +63,8 @@
 
     <!-- Nouns -->
 
+    <e><p><l>otec<s n="n"/><s n="m"/></l><r>oče<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>kniha<s n="n"/><s n="f"/></l><r>knjiga<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>dohoda<s n="n"/><s n="f"/></l><r>sporazum<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>vláda<s n="n"/><s n="f"/></l><r>vlada<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>energie<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
@@ -112,6 +114,7 @@
 
     <e><p><l>být<s n="vblex"/></l><r>biti<s n="vblex"/></r></p></e>
 
+    <e><p><l>číst<s n="vblex"/></l><r>brati<s n="vblex"/></r></p></e>
     <e><p><l>podepsat<s n="vblex"/></l><r>podpisati<s n="vblex"/></r></p></e>
     <e><p><l>připravit<s n="vblex"/></l><r>pripraviti<s n="vblex"/></r></p></e>
     <e><p><l>rodit<s n="vblex"/></l><r>roditi<s n="vblex"/></r></p></e>
