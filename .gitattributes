@@ -1,4 +1,9 @@
 * text=auto !eol
+/Makefile -text
 /apertium-cs-sl.cs-sl.dix -text
+/apertium-cs-sl.cs-sl.t1x -text
 /apertium-cs-sl.cs.dix -text
+/apertium-cs-sl.sl.dix -text
 /cs-sl.prob -text
+/modes.xml -text
+/pending-tests.sh -text

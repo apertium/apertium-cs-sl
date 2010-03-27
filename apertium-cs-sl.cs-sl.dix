@@ -1,23 +1,27 @@
 <dictionary>
   <alphabet/>
   <sdefs>
-    <s n="n"        c="Common noun"/>
-    <s n="np"       c="Proper names"/>
-    <s n="num"      c="Numeral"/>
-    <s n="pr"       c="Preposition"/>
-    <s n="ij"       c="Interjection"/>
-    <s n="adj"      c="Adjective"/>
-    <s n="vblex"    c="Verb"/>
-    <s n="cnjcoo"   c="Co-ordinating conjunction"/>
-    <s n="cnjsub"   c="Sub-ordinating conjunction"/>
+    <sdef n="n"        c="Common noun"/>
+    <sdef n="np"       c="Proper names"/>
+    <sdef n="num"      c="Numeral"/>
+    <sdef n="prn"      c="Pronoun"/>
+    <sdef n="pr"       c="Preposition"/>
+    <sdef n="ij"       c="Interjection"/>
+    <sdef n="adj"      c="Adjective"/>
+    <sdef n="vblex"    c="Verb"/>
+    <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"   c="Sub-ordinating conjunction"/>
 
-    <s n="m"        c="Masculine"/>
-    <s n="f"        c="Feminine"/>
-    <s n="nt"       c="Neuter"/>
+    <sdef n="m"        c="Masculine"/>
+    <sdef n="f"        c="Feminine"/>
+    <sdef n="nt"       c="Neuter"/>
 
-    <s n="ord"      c="Ordinal"/>
+    <sdef n="ord"      c="Ordinal"/>
 
-    <s n="top"      c="Toponym"/>
+    <sdef n="top"      c="Toponym"/>
+
+    <sdef n="sent"     c="Sentence marker"/>
+    <sdef n="cm"       c="Comma"/>
   </sdefs>
   <pardefs>
     <pardef n="n_n">
@@ -41,9 +45,13 @@
 
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
     <e><p><l>v<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
     <e><p><l>k<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
+
+    <e><p><l>se<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
+    <e><p><l>všechen<s n="prn"/></l><r>ves<s n="prn"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -74,6 +82,9 @@
     <e><p><l>komise<s n="n"/><s n="f"/></l><r>komisija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>instituce<s n="n"/><s n="f"/></l><r>institucija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>koncentrace<s n="n"/><s n="f"/></l><r>koncentracija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>důstojnost<s n="n"/><s n="f"/></l><r>dostojanstvo<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
+    <e><p><l>právo<s n="n"/><s n="nt"/></l><r>pravica<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>člověk<s n="n"/><s n="m"/></l><r>človek<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
 
 
     <!-- Adjectives -->
@@ -92,6 +103,8 @@
     <e><p><l>italský<s n="adj"/></l><r>italijanski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>fyzický<s n="adj"/></l><r>fizičen<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>kapitálový<s n="adj"/></l><r>kapitalski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>svobodný<s n="adj"/></l><r>svoboden<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>rovný<s n="adj"/></l><r>enako<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
@@ -101,6 +114,7 @@
 
     <e><p><l>podepsat<s n="vblex"/></l><r>podpisati<s n="vblex"/></r></p></e>
     <e><p><l>připravit<s n="vblex"/></l><r>pripraviti<s n="vblex"/></r></p></e>
+    <e><p><l>rodit<s n="vblex"/></l><r>roditi<s n="vblex"/></r></p></e>
 
     <!-- Proper names -->
 
@@ -112,6 +126,9 @@
 
     <!-- Punctuation -->
 
+    <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
   </section>
 </dictionary>
