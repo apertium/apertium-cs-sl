@@ -35,10 +35,12 @@
     <!-- Conjunctions -->
 
     <e><p><l>i<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
+    <e><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
 
     <!-- Prepositions -->
 
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
+    <e><p><l>v<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -57,10 +59,13 @@
     <e><p><l>energie<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>séri<s n="n"/><s n="f"/></l><r>serija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>reaktor<s n="n"/><s n="m"/></l><r>reaktor<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>kilogram<s n="n"/><s n="m"/></l><r>kilogram<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>materiál<s n="n"/><s n="m"/></l><r>material<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>podnik<s n="n"/><s n="m"/></l><r>podjetje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>společenství<s n="n"/><s n="nt"/></l><r>skupnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>soulad<s n="n"/><s n="m"/></l><r>sklad<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>článek<s n="n"/><s n="m"/></l><r>člen<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>území<s n="n"/><s n="nt"/></l><r>ozemlje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>okolnost<s n="n"/><s n="f"/></l><r>okoliščina<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>republika<s n="n"/><s n="f"/></l><r>republika<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
@@ -76,6 +81,8 @@
     <e><p><l>technický<s n="adj"/></l><r>tehničen<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>německý<s n="adj"/></l><r>nemški<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>jaderný<s n="adj"/></l><r>jedrski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>zapečetěný<s n="adj"/></l><r>zapečaten<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>efektivní<s n="adj"/></l><r>efektivni<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
