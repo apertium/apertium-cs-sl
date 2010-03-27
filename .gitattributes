@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-cs-sl.cs-sl.dix -text
 /apertium-cs-sl.cs.dix -text
+/cs-sl.prob -text
