@@ -5,6 +5,7 @@
     <s n="np"       c="Proper names"/>
     <s n="num"      c="Numeral"/>
     <s n="pr"       c="Preposition"/>
+    <s n="ij"       c="Interjection"/>
     <s n="adj"      c="Adjective"/>
     <s n="vblex"    c="Verb"/>
 
@@ -74,6 +75,12 @@
 
     <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p><par n="np_np"/></e>
 
+    <!-- Interjections -->
+
+    <e><p><l>díky<s n="ij"/></l><r>hvala<s n="ij"/></r></p></e>
+
     <!-- Punctuation -->
+
+
   </section>
 </dictionary>
