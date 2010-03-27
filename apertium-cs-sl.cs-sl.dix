@@ -8,6 +8,8 @@
     <s n="ij"       c="Interjection"/>
     <s n="adj"      c="Adjective"/>
     <s n="vblex"    c="Verb"/>
+    <s n="cnjcoo"   c="Co-ordinating conjunction"/>
+    <s n="cnjsub"   c="Sub-ordinating conjunction"/>
 
     <s n="m"        c="Masculine"/>
     <s n="f"        c="Feminine"/>
@@ -31,6 +33,8 @@
   <section id="main" type="standard">
  
     <!-- Conjunctions -->
+
+    <e><p><l>i<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
 
     <!-- Prepositions -->
 
