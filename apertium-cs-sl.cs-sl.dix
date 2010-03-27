@@ -1,0 +1,58 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <s n="n"        c="Common noun"/>
+    <s n="np"       c="Proper names"/>
+    <s n="adj"      c="Adjective"/>
+    <s n="vblex"    c="Verb"/>
+
+    <s n="m"        c="Masculine"/>
+    <s n="f"        c="Feminine"/>
+    <s n="nt"       c="Neuter"/>
+  </sdefs>
+  <pardefs>
+    <pardef n="n_n">
+      <e><p><l/><r/></p></e>
+    </pardef>
+    <pardef n="np_np">
+      <e><p><l/><r/></p></e>
+    </pardef>
+    <pardef n="adj_adj">
+      <e><p><l/><r/></p></e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+ 
+    <!-- Conjunctions -->
+
+    <!-- Prepositions -->
+
+    <!-- Pronouns -->
+
+    <!-- Determiners -->
+
+    <!-- Numerals -->
+
+    <!-- Nouns -->
+
+    <e><p><l>dohoda<s n="n"/><s n="f"/></l><r>sporazum<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>vláda<s n="n"/><s n="f"/></l><r>vlada<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>energi<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+
+    <!-- Adjectives -->
+
+    <e><p><l>atomový<s n="adj"/></l><r>atomski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>evropský<s n="adj"/></l><r>evropski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>mírový<s n="adj"/></l><r>miroljuben<s n="adj"/></r></p><par n="adj_adj"/></e>
+
+    <!-- Adverbs -->
+
+    <!-- Verbs -->
+
+    <!-- Proper names -->
+
+    <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p><par n="np_np"/></e>
+
+    <!-- Punctuation -->
+  </section>
+</dictionary>
