@@ -3,6 +3,7 @@
   <sdefs>
     <s n="n"        c="Common noun"/>
     <s n="np"       c="Proper names"/>
+    <s n="num"      c="Numeral"/>
     <s n="adj"      c="Adjective"/>
     <s n="vblex"    c="Verb"/>
 
@@ -27,23 +28,32 @@
 
     <!-- Prepositions -->
 
+    <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
+
     <!-- Pronouns -->
 
     <!-- Determiners -->
 
     <!-- Numerals -->
 
+    <e><p><l>en<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
+
+    <e><p><l>první<s n="num"/><s n="ord"/></l><r>prvi<s n="num"/><s n="ord"/></r></p></e>
+
     <!-- Nouns -->
 
     <e><p><l>dohoda<s n="n"/><s n="f"/></l><r>sporazum<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>vláda<s n="n"/><s n="f"/></l><r>vlada<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>energi<s n="n"/><s n="f"/></l><r>energija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>séri<s n="n"/><s n="f"/></l><r>serija<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
 
     <!-- Adjectives -->
 
     <e><p><l>atomový<s n="adj"/></l><r>atomski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>evropský<s n="adj"/></l><r>evropski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>mírový<s n="adj"/></l><r>miroljuben<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>švýcarský<s n="adj"/></l><r>švicarski<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
