@@ -49,6 +49,8 @@
     <e><p><l>institut<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>podnik<s n="n"/><s n="m"/></l><r>podjetje<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>společenství<s n="n"/><s n="nt"/></l><r>skupnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>soulad<s n="n"/><s n="m"/></l><r>sklad<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>standard<s n="n"/><s n="m"/></l><r>standard<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
 
     <!-- Adjectives -->
 
@@ -56,6 +58,8 @@
     <e><p><l>evropský<s n="adj"/></l><r>evropski<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>mírový<s n="adj"/></l><r>miroljuben<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>švýcarský<s n="adj"/></l><r>švicarski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>zákonný<s n="adj"/></l><r>zakonski<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>technický<s n="adj"/></l><r>tehničen<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
