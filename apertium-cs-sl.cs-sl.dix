@@ -69,6 +69,9 @@
     <e><p><l>všechen<s n="prn"/></l><r>ves<s n="prn"/></r></p></e>
 
     <e><p><l>kdo<s n="prn"/><s n="itg"/></l><r>kdo<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>co<s n="prn"/><s n="itg"/></l><r>kaj<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>kde<s n="prn"/><s n="itg"/></l><r>kje<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>jak<s n="prn"/><s n="itg"/></l><r>kako<s n="prn"/><s n="itg"/></r></p></e>
 
     <e><p><l>já<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/></r></p></e>
     <e><p><l>ty<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p2"/></r></p></e>
@@ -89,8 +92,11 @@
     <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
     <e><p><l>III<s n="num"/></l><r>III<s n="num"/></r></p></e>
 
-    <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
-    <e><p><l>tři<s n="num"/></l><r>tri<s n="num"/></r></p></e>
+    <e><p><l>jeden<s n="num"/></l><r>eden<s n="num"/></r></p></e>
+    <e><p><l>dva<s n="num"/></l><r>dve<s n="num"/></r></p></e>
+    <e><p><l>tři<s n="num"/></l><r>trije<s n="num"/></r></p></e>
+    <e><p><l>čtyři<s n="num"/></l><r>štiri<s n="num"/></r></p></e>
+    <e><p><l>pět<s n="num"/></l><r>pet<s n="num"/></r></p></e>
 
     <e><p><l>první<s n="num"/><s n="ord"/></l><r>prvi<s n="num"/><s n="ord"/></r></p></e>
 
@@ -175,6 +181,13 @@
     <e><p><l>modrý<s n="adj"/></l><r>moder<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>nový<s n="adj"/></l><r>nov<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>malý<s n="adj"/></l><r>mali<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>velký<s n="adj"/></l><r>velik<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>dlouhý<s n="adj"/></l><r>dolg<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>široký<s n="adj"/></l><r>širok<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>těžký<s n="adj"/></l><r>težek<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>krátký<s n="adj"/></l><r>kratek<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>úzký<s n="adj"/></l><r>ozek<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>tenký<s n="adj"/></l><r>tanek<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
@@ -192,11 +205,15 @@
     <e><p><l>stvořit<s n="vblex"/></l><r>ustvariti<s n="vblex"/></r></p></e>
     <e><p><l>nakreslit<s n="vblex"/></l><r>narisati<s n="vblex"/></r></p></e>
     <e><p><l>umřít<s n="vblex"/></l><r>umreti<s n="vblex"/></r></p></e>
+    <e><p><l>vědět<s n="vblex"/></l><r>vedeti<s n="vblex"/></r></p></e>
 
     <!-- Adverbs -->
 
+    <e><p><l>kde<s n="adv"/><s n="itg"/></l><r>kje<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>kako<s n="adv"/><s n="itg"/></r></p></e>
+
     <e><p><l>včera<s n="adv"/></l><r>včeraj<s n="adv"/></r></p></e>
-    <e><p><l>jednou<s n="adv"/></l><r>jedno<s n="adv"/></r></p></e>
+    <e><p><l>jednou<s n="adv"/></l><r>je<b/>enkrat<s n="adv"/></r></p></e>
 
     <!-- Proper names -->
 
