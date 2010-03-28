@@ -9,8 +9,8 @@
 0.7142857 slovenský<adj> slovenski<adj>
 0.5 večerní<adj> večeren<adj>
 0.5 upravený<adj> upraven<adj>
-0.5 irský<n><nt> irski<adj>
-0.5 starý<n><m> star<adj>
+0.5 irský<adj> irski<adj>
+0.5 starý<adj> star<adj>
 0.5 smetanový<adj> smetanov<adj>
 0.5 slovinský<adj> slovenski<adj>
 0.5 sloní<adj> slonov<adj>
@@ -162,13 +162,13 @@
 0.2 oční<adj> očesen<adj>
 0.2 norský<adj> norveški<adj>
 0.2 národní<adj> naroden<adj>
-0.2 nadřízení<n><nt> nadrejen<adj>
+0.2 nadřízení<adj> nadrejen<adj>
 0.2 moderní<adj> moderen<adj>
 0.2 mechanický<adj> mehanski<adj>
 0.2 automatický<adj> avtomatičen<adj>
 0.2 matematický<adj> matematičen<adj>
 0.2 letošní<adj> letošnji<adj>
-0.2 severní<adj> kraljestvo<n><nt>/severen<adj>
+0.2 severní<adj> severen<adj>
 0.2 konzervativní<adj> konservativen<adj>
 0.2 jaderský<adj> jadranski<adj>
 0.2 italský<adj> italijanski<adj>
