@@ -287,6 +287,14 @@
       <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
 
+
+
+
+
+
+
+
+
     <pardef n="desetin/a__num">
       <e><p><l></l><r>a<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ama</l><r>a<s n="num"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
