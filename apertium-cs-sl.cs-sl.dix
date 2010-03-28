@@ -103,6 +103,7 @@
     <!-- Nouns -->
 
     <e><p><l>auto<s n="n"/><s n="nt"/></l><r>avto<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
+    <e><p><l>rok<s n="n"/><s n="m"/></l><r>leto<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>srdce<s n="n"/><s n="nt"/></l><r>srce<s n="n"/><s n="nt"/></r></p><par n="n_n"/></e>
     <e><p><l>chlapec<s n="n"/><s n="m"/></l><r>fant<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>král<s n="n"/><s n="m"/></l><r>kralj<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
@@ -153,6 +154,9 @@
     <e><p><l>úřad<s n="n"/><s n="m"/></l><r>urad<s n="n"/><s n="m"/></r></p><par n="n_n"/></e>
     <e><p><l>dcera<s n="n"/><s n="f"/></l><r>hči<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
     <e><p><l>vous<s n="n"/><s n="m"/></l><r>brada<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>verze<s n="n"/><s n="f"/></l><r>različica<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>činnost<s n="n"/><s n="f"/></l><r>aktivnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
+    <e><p><l>aktivita<s n="n"/><s n="f"/></l><r>aktivnost<s n="n"/><s n="f"/></r></p><par n="n_n"/></e>
 
 
     <!-- Adjectives -->
@@ -188,6 +192,7 @@
     <e><p><l>krátký<s n="adj"/></l><r>kratek<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>úzký<s n="adj"/></l><r>ozek<s n="adj"/></r></p><par n="adj_adj"/></e>
     <e><p><l>tenký<s n="adj"/></l><r>tanek<s n="adj"/></r></p><par n="adj_adj"/></e>
+    <e><p><l>český<s n="adj"/></l><r>češki<s n="adj"/></r></p><par n="adj_adj"/></e>
 
     <!-- Adverbs -->
 
@@ -206,6 +211,7 @@
     <e><p><l>nakreslit<s n="vblex"/></l><r>narisati<s n="vblex"/></r></p></e>
     <e><p><l>umřít<s n="vblex"/></l><r>umreti<s n="vblex"/></r></p></e>
     <e><p><l>vědět<s n="vblex"/></l><r>vedeti<s n="vblex"/></r></p></e>
+    <e><p><l>začít<s n="vblex"/></l><r>začeti<s n="vblex"/></r></p></e>
 
     <!-- Adverbs -->
 
@@ -214,6 +220,8 @@
 
     <e><p><l>včera<s n="adv"/></l><r>včeraj<s n="adv"/></r></p></e>
     <e><p><l>jednou<s n="adv"/></l><r>je<b/>enkrat<s n="adv"/></r></p></e>
+    <e><p><l>již<s n="adv"/></l><r>že<s n="adv"/></r></p></e>
+    <e><p><l>nyní<s n="adv"/></l><r>zdaj<s n="adv"/></r></p></e>
 
     <!-- Proper names -->
 
