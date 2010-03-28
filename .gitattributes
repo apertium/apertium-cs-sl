@@ -8,6 +8,7 @@
 dev/bidix/adj.lex -text
 dev/bidix/adv.lex -text
 dev/bidix/n.lex -text
+dev/bidix/n.proc -text
 dev/bidix/np.lex -text
 dev/bidix/pr.lex -text
 dev/bidix/vblex.lex -text
