@@ -116,8 +116,7 @@
 0.9 program<n><m> program<n><m>
 0.9 bon<n><m> bon<n><m>
 @
-0.9756098 sen<n><m>/seno<n><nt> sen<n><m>/seno<n><nt>
-0.9666667 forma<n><f>ção<pr>/oie<res>/o<n><nt> forma<n><f>ção<pr>
+0.9756098 sen<n><m> sen<n><m>
 0.9659091 malta<n><f> malta<n><f>
 0.962963 država<n><f> država<n><f>
 0.9573922 nomenklatura<n><f> nomenklatura<n><f>
@@ -177,11 +176,10 @@
 0.8685259 nota<n><f> nota<n><f>
 0.8671329 fosfor<n><m> fosfor<n><m>
 0.8666206 seznam<n><m> seznam<n><m>
-0.8655508 les<n><m>/le<adj> les<n><m>
-0.8644039 seznam<vblex>/seznat<vblex>/seznam<n><m> seznam<n><m>
+0.8655508 les<n><m> les<n><m>
 0.8571429 testosteron<n><m> testosteron<n><m>
-0.8571429 program<n><m>/tematický<adj> program<n><m>/tematski<adj>
-0.8571429 elektronik<n><m>/elektronika<n><f> elektronik<n><m>
+0.8571429 program<n><m> program<n><m>
+0.8571429 elektronik<n><m> elektronik<n><m>
 0.8571429 doba<n><f> doba<n><f>ě
 0.8536585 bar<n><m> bar<n><m>
 0.8518519 diplomat<n><m> diplomat<n><m>
@@ -199,13 +197,11 @@
 0.8348214 uran<n><m> uran<n><m>
 0.8343816 prospekt<n><m> prospekt<n><m>
 0.8343373 dopis<n><m> dopis<n><m>
-0.8342644 partner<n><m> partner<n><m>/partnerjev<adj>
+0.8342644 partner<n><m> partner<n><m>
 0.8337602 program<n><m> program<n><m>
 0.8333333 trata<n><f> trata<n><f>
 0.8333333 stadion<n><m> stadion<n><m>
 0.8333333 koncert<n><m> koncert<n><m>
-0.8333333 d<n><nt>os<n><f> d<num>os<n><f>/osa<n><f>
-0.8333333 bar<n><m>/lie<res>/l<n><nt> bar<n><m>·l<num>/l<abbr>
 0.8313539 patent<n><m> patent<n><m>
 0.82 cisterna<n><f> cisterna<n><f>
 0.8296326 infrastruktura<n><f> infrastruktura<n><f>
@@ -217,14 +213,12 @@
 0.8208955 most<n><m> most<n><m>
 0.8202413 projekt<n><m> projekt<n><m>
 0.8201754 uran<n><m> uran<n><m>
-0.8186813 minuta<n><f>/minut<vblex> minuta<n><f>
+0.8186813 minuta<n><f> minuta<n><f>
 0.8181818 paluba<n><f> paluba<n><f>
-0.8181818 mat<vblex>/mat<n><m> mat<n><m>
 0.8173913 jezero<n><nt> jezero<n><nt>
-0.8163265 sen<n><m>/seno<n><nt> sen<n><m>/seno<n><nt>
 0.8148148 pacient<n><m> pacient<n><m>
 0.812709 železo<n><nt> železo<n><nt>
-0.8122271 zlato<n><nt> zlato<n><nt>/zlat<adj>
+0.8122271 zlato<n><nt> zlato<n><nt>
 0.8103448 jezero<n><nt> jezero<n><nt>
 0.8083141 patent<n><m> patent<n><m>
 0.8076425 podpis<n><m> podpis<n><m>
@@ -247,7 +241,6 @@
 0.7819249 projekt<n><m> projekt<n><m>
 0.779661 post<n><m> post<n><m>
 0.7736824 struktura<n><f> struktura<n><f>
-0.7711409 seznam<n><m>/seznam<vblex> seznam<n><m>
 0.7710843 herbicid<n><m> herbicid<n><m>
 0.7707763 kilogram<n><m> kilogram<n><m>
 0.76 zlato<n><nt> zlato<n><nt>
@@ -259,13 +252,11 @@
 0.7647059 transparent<n><m> transparent<n><m>
 0.764162 skupina<n><f> skupina<n><f>
 0.7639681 standard<n><m> standard<n><m>
-0.7636893 politik<n><m>/politika<n><f>/politikum<n><nt> politik<n><m>/politika<n><f>
 0.7636364 sekunda<n><f> sekunda<n><f>
 0.762987 konflikt<n><m> konflikt<n><m>
 0.7627119 beton<n><m> beton<n><m>
 0.75 varianta<n><f> varianta<n><f>
 0.75 um<n><m> um<n><m>
-0.75 nos<vblex>/nos<n><m> nos<n><m><sg>/nos<n><m>
 0.75 major<n><m> major<n><m>
 0.75 gin<n><m> gin<n><m>
 0.75 diktatura<n><f> diktatura<n><f>
@@ -279,10 +270,8 @@
 0.7522936 tkanina<n><f> tkanina<n><f>
 0.7432432 most<n><m> most<n><m>
 0.742268 hormon<n><m> hormon<n><m>
-0.7412935 minuta<n><f>/minut<vblex> minuta<n><f>
 0.7395385 surovina<n><f> surovina<n><f>
 0.7391304 motor<n><m> motor<n><m>
-0.7391304 mat<n><f> mat<n><m>/mati<n><f>
 0.7390411 akt<n><m> akt<n><m>
 0.7386018 železo<n><nt> železo<n><nt>
 0.7384067 subjekt<n><m> subjekt<n><m>
@@ -309,7 +298,7 @@
 0.7105263 palec<n><m> palec<n><m>
 0.7096774 dar<n><m> dar<n><m>
 0.7062937 oliva<n><f> oliva<n><f>
-0.7058824 klub<vblex>/klub<n><m> klub<n><m>
+0.7058824 klub<n><m> klub<n><m>
 0.7055921 režim<n><m> režim<n><m>/režati<vblex>
 0.7041511 konec<n><m> konec<n><m>
 0.7027027 frank<n><m> frank<n><m>
@@ -319,7 +308,6 @@
 0.6 tur<n><m> tur<n><m>/tura<n><f>
 0.6 prst<n><m> prst<n><m>
 0.6 pop<n><m>/pop<adj> pop<n><m>
-0.6 k<pr>/kie<res>/k<n><nt>øber<vblex> k<pr>øbera<n><f>/brati<vblex>
 0.6 efekt<n><m> efekt<n><m>
 0.6979866 model<n><m>/modla<n><f> model<n><m>
 0.6923077 pop<n><m>/pop<adj> pop<n><m>
