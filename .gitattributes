@@ -5,6 +5,7 @@
 /apertium-cs-sl.cs.dix -text
 /apertium-cs-sl.sl.dix -text
 /cs-sl.prob -text
+dev/apertium-cs-sl.cs-full.dix -text
 dev/bidix/README -text
 dev/bidix/adj.lex -text
 dev/bidix/adj.proc -text
@@ -14,5 +15,6 @@ dev/bidix/n.proc -text
 dev/bidix/np.lex -text
 dev/bidix/pr.lex -text
 dev/bidix/vblex.lex -text
+dev/cs.hitparade.txt -text
 /modes.xml -text
 /pending-tests.sh -text

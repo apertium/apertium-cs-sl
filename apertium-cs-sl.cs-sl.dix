@@ -92,16 +92,6 @@
 
     <!-- Pronouns -->
 
-    <e><p><l>se<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
-    <e><p><l>všechen<s n="prn"/></l><r>ves<s n="prn"/></r></p></e>
-
-    <e><p><l>kdo<s n="prn"/><s n="itg"/></l><r>kdo<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>co<s n="prn"/><s n="itg"/></l><r>kaj<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>kde<s n="prn"/><s n="itg"/></l><r>kje<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>jak<s n="prn"/><s n="itg"/></l><r>kako<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>který<s n="prn"/><s n="itg"/></l><r>kateri<s n="prn"/><s n="itg"/></r></p></e>
-    <e r="LR"><p><l>jenž<s n="prn"/><s n="itg"/></l><r>kateri<s n="prn"/><s n="itg"/></r></p></e>
-
     <e><p><l>já<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/></r></p></e>
     <e><p><l>ty<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p2"/></r></p></e>
     <e><p><l>on<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
@@ -112,6 +102,28 @@
     <e><p><l>vaše<s n="prn"/><s n="pos"/></l><r>vaš<s n="prn"/><s n="pos"/></r></p></e>
 
     <e><p><l>ten<s n="prn"/><s n="dem"/></l><r>ta<s n="prn"/><s n="dem"/></r></p></e>
+
+    <e><p><l>kdo<s n="prn"/><s n="itg"/></l><r>kdo<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>co<s n="prn"/><s n="itg"/></l><r>kaj<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>kde<s n="prn"/><s n="itg"/></l><r>kje<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>jak<s n="prn"/><s n="itg"/></l><r>kako<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>který<s n="prn"/><s n="itg"/></l><r>kateri<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>některý<s n="prn"/><s n="itg"/></l><r>nekateri<s n="prn"/><s n="itg"/></r></p></e>
+    <e r="LR"><p><l>jenž<s n="prn"/><s n="itg"/></l><r>kateri<s n="prn"/><s n="itg"/></r></p></e>
+
+                               <!-- To be subcategorised -->
+    <e><p><l>se<s n="prn"/></l><r>se<s n="prn"/></r></p></e>
+    <e><p><l>všechen<s n="prn"/></l><r>ves<s n="prn"/></r></p></e>
+    <e><p><l>žádný<s n="prn"/></l><r>noben<s n="prn"/></r></p></e>
+    <e><p><l>takový<s n="prn"/></l><r>tak<s n="prn"/></r></p></e>
+    <e><p><l>nějaký<s n="prn"/></l><r>nekak<s n="prn"/></r></p></e>
+    <e><p><l>tentýž<s n="prn"/></l><r>isti<s n="prn"/></r></p></e>
+    <e><p><l>někdo<s n="prn"/></l><r>nekdo<s n="prn"/></r></p></e>
+    <e><p><l>nikdo<s n="prn"/></l><r>nihče<s n="prn"/></r></p></e>
+    <e><p><l>kterýkoliv<s n="prn"/></l><r>katerikoli<s n="prn"/></r></p></e>
+    <e><p><l>cokoliv<s n="prn"/></l><r>kakršenkoli<s n="prn"/></r></p></e>
+    <e><p><l>kdokoliv<s n="prn"/></l><r>kdokoli<s n="prn"/></r></p></e>
+
 
     <!-- Determiners -->
 
@@ -654,8 +666,8 @@
 
     <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
-    <e><re>)</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
-    <e><re>(</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+    <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+    <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
   </section>
