@@ -5,6 +5,7 @@
 /apertium-cs-sl.cs.dix -text
 /apertium-cs-sl.sl.dix -text
 /cs-sl.prob -text
+dev/bidix/README -text
 dev/bidix/adj.lex -text
 dev/bidix/adv.lex -text
 dev/bidix/n.lex -text
