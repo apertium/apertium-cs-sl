@@ -9,6 +9,7 @@
     <sdef n="pr"       c="Preposition"/>
     <sdef n="ij"       c="Interjection"/>
     <sdef n="adj"      c="Adjective"/>
+    <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="vblex"    c="Verb"/>
     <sdef n="vbser"    c="Verb 'to be'"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
@@ -628,7 +629,7 @@
 
     <e><p><l>být<s n="vbser"/></l><r>biti<s n="vbser"/></r></p></e>
 
-    <e><p><l>mát<s n="vblex"/></l><r>imeti<s n="vblex"/></r></p></e>
+    <e><p><l>mít<s n="vblex"/></l><r>imeti<s n="vblex"/></r></p></e>
     <e><p><l>chtít<s n="vblex"/></l><r>hoteti<s n="vblex"/></r></p></e>
 
     <e><p><l>číst<s n="vblex"/></l><r>brati<s n="vblex"/></r></p></e>
@@ -661,6 +662,12 @@
     <!-- Interjections -->
 
     <e><p><l>díky<s n="ij"/></l><r>hvala<s n="ij"/></r></p></e>
+
+    <!-- Abbreviations -->
+    <e><p><l>např<s n="abbr"/></l><r>npr<s n="abbr"/></r></p></e>
+    <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
+    <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
+    <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
 
     <!-- Punctuation -->
 
