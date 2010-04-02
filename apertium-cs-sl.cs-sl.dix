@@ -648,10 +648,13 @@
     <e><p><l>kde<s n="adv"/><s n="itg"/></l><r>kje<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>kako<s n="adv"/><s n="itg"/></r></p></e>
 
+    <e><p><l>ne<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+
     <e><p><l>včera<s n="adv"/></l><r>včeraj<s n="adv"/></r></p></e>
     <e><p><l>jednou<s n="adv"/></l><r>je<b/>enkrat<s n="adv"/></r></p></e>
     <e><p><l>již<s n="adv"/></l><r>že<s n="adv"/></r></p></e>
     <e><p><l>nyní<s n="adv"/></l><r>zdaj<s n="adv"/></r></p></e>
+    <e><p><l>hodně<s n="adv"/></l><r>več<s n="adv"/></r></p></e>
 
     <!-- Proper names -->
 

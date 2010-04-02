@@ -1,5 +1,5 @@
 <dictionary>
-  <alphabet>ůŮčČćĆžŽšŠđĐABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzěřňĚŘŇąĄáéíóúÁÉÍÓÚýÝ</alphabet>
+  <alphabet>ůŮčČćĆžŽšŠđĐABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzěřňĚŘŇąĄáéíóúÁÉÍÓÚýÝťľďTĽĎ</alphabet>
   <sdefs> 
     <sdef n="n"      c="Noun"/>
     <sdef n="np"     c="Proper noun"/>
@@ -823,6 +823,12 @@
       <e><p><l></l><r><s n="pr"/></r></p></e>
     </pardef>
 
+    <pardef n="/v__pr">
+      <e r="LR"><p><l>v</l><r>v<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>ve</l><r>v<s n="pr"/></r></p></e>
+      <e r="RL"><p><l><a/>v</l><r>v<s n="pr"/></r></p></e>
+    </pardef>
+
     <pardef n="/z__pr">
       <e r="LR"><p><l>z</l><r>z<s n="pr"/></r></p></e>
       <e r="LR"><p><l>ze</l><r>z<s n="pr"/></r></p></e>
@@ -905,6 +911,10 @@
 
 
     </pardef>
+    <pardef n="v_neg">
+      <e><p><l/><r/></p></e>
+      <e><p><l>ne</l><r>ne<s n="adv"/><j/></r></p></e>
+    </pardef>
 
     <pardef n="m/ít__vblex">
       <e><p>          <l>ít</l><r>ít<s n="vblex"/><s n="inf"/></r></p></e>
@@ -915,12 +925,12 @@
       <e><p>          <l>áte</l><r>ít<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ájí</l><r>ít<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ěl</l><r>ět<s n="vblex"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ěla</l><r>ět<s n="vblex"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ělo</l><r>ět<s n="vblex"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ěli</l><r>ět<s n="vblex"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>ěly</l><r>ět<s n="vblex"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>ěla</l><r>ět<s n="vblex"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěl</l><r>ít<s n="vblex"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěla</l><r>ít<s n="vblex"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ělo</l><r>ít<s n="vblex"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěli</l><r>ít<s n="vblex"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěly</l><r>ít<s n="vblex"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěla</l><r>ít<s n="vblex"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
 
     </pardef>
 
@@ -21922,8 +21932,6 @@
     <e lm="van"><i>van</i><par n="za__pr"/></e>
     <e lm="vedle"><i>vedle</i><par n="za__pr"/></e>
     <e lm="versus"><i>versus</i><par n="za__pr"/></e>
-    <e lm="v"><i>ve</i><par n="za__pr"/></e>
-    <e lm="v"><i>ve</i><par n="za__pr"/></e>
     <e lm="via"><i>via</i><par n="za__pr"/></e>
     <e lm="vně"><i>vně</i><par n="za__pr"/></e>
     <e lm="von"><i>von</i><par n="za__pr"/></e>
@@ -21938,6 +21946,7 @@
     <e lm="za"><i>za</i><par n="za__pr"/></e>
     <e lm="za"><i>za</i><par n="za__pr"/></e>
     <e lm="z"><i/><par n="/z__pr"/></e>
+    <e lm="v"><i/><par n="/v__pr"/></e>
     <e lm="zpod"><i>zpode</i><par n="za__pr"/></e>
     <e lm="zpod"><i>zpod</i><par n="za__pr"/></e>
     <e lm="zpoza"><i>zpoza</i><par n="za__pr"/></e>
@@ -23734,7 +23743,7 @@
     <e lm="plaz"><i>plaz</i><par n="pář__vblex"/></e>
     <e lm="nos"><i>nos</i><par n="dř__vblex"/></e>
     <e lm="vid"><i>vid</i><par n="vř__vblex"/></e>
-    <e lm="mít"><i>m</i><par n="m/ít__vblex"/></e>
+    <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vblex"/></e>
 <!--
     <e lm="mát"><i>m</i><par n="m/át__vblex"/></e>
 -->
