@@ -6,6 +6,9 @@
 /apertium-cs-sl.sl.dix -text
 /cs-sl.prob -text
 dev/apertium-cs-sl.cs-full.dix -text
+dev/apertium-sl-cs.cs.dix -text
+dev/apertium-sl-cs.sl-cs.dix -text
+dev/apertium-sl-cs.sl.dix -text
 dev/bidix/README -text
 dev/bidix/adj.lex -text
 dev/bidix/adj.proc -text
